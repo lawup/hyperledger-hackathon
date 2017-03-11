@@ -1,0 +1,16 @@
+{
+  "name": "w3cool/hyperledger-hackathon",
+  "description": "for hyperledger hackathon shanghai 2017",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "lawup, w3cool",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "laravel/installer": "v1.3.5",
+    "laravel/laravel": "v5.4.15"
+  }
+}
